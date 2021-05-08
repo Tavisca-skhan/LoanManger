@@ -26,7 +26,7 @@ namespace Geektrust
                 var bankingService = new BankingService();
                 var bankingManager = new BankingManager(bankingService);
                 bankingManager.Executes(lines);
-                Console.ReadKey();
+                //Console.ReadKey();
             }
             catch(FileNotFoundException ex)
             {
