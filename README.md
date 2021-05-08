@@ -1,3 +1,5 @@
+It takes input from folder sample_io if not provided in arguments.
+
 The Ledger Co
 The Challenge
 
